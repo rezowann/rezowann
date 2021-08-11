@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rezowann
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on enhancing my skills
+- 🌱 Currently I'm enhancing my skills in Java
+- 💞️ I’m looking to collaborate to enhance my knowledge and skills
 - 📫 How to reach me ...rezowann@outlook.com
 
 <!---

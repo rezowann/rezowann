@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rezowann
-- 👀 I’m interested in Software Engineering
-- 🌱 Currently I'm enhancing my skills in Java
+- 👀 Test Automation Engineer
+- 🌱 Working as a Lead
 - 💞️ I’m looking to collaborate to enhance my knowledge and skills
 - 📫 How to reach me ...rezowann@outlook.com
 
